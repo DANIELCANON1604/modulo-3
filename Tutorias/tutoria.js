@@ -94,3 +94,4 @@ const numero = Math.round(Math.random() * (nombres.length - 1) + 1);
 console.log(nombres[numero]);
 // document.write(2);
 
+
